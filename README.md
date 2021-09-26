@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Google's Code**
 
-- 📄 My Resume [https://drive.google.com/file/d/1eCSWt0-0itL-mcr_gVd7qiBoVK4SsMnv/view](https://drive.google.com/file/d/1eCSWt0-0itL-mcr_gVd7qiBoVK4SsMnv/view)
+- 📄 My Resume [https://drive.google.com/file/d/1e22Tjf_Nrx7AxaevN5OiE1X-pgxCFhJm/view?usp=sharing](https://drive.google.com/file/d/1e22Tjf_Nrx7AxaevN5OiE1X-pgxCFhJm/view?usp=sharing)
 
 ## ✍ My Work
 
