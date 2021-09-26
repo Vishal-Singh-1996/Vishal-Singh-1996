@@ -10,7 +10,6 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1eCSWt0-0itL-mcr_gVd7qiBoVK4SsMnv/view](https://drive.google.com/file/d/1eCSWt0-0itL-mcr_gVd7qiBoVK4SsMnv/view)
 
-- ⚡ Fun fact: **I spend almost 20-22 hrs watching movie**
 ## ✍ My Work
 
 [![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-Singh-1996&show_icons=true&theme=dark)](https://github.com/Jaagrav)
@@ -40,5 +39,4 @@ Here are some of my projects on Github that I am proud of:
 ## 🤝 Connect
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsinghhere/)
-[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.vishu_.singh_/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishal-Singh-1996)
